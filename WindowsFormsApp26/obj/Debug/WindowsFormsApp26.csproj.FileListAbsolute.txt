@@ -1,0 +1,10 @@
+G:\Users\ASUS\source\repos\WindowsFormsApp26\WindowsFormsApp26\bin\Debug\WindowsFormsApp26.exe.config
+G:\Users\ASUS\source\repos\WindowsFormsApp26\WindowsFormsApp26\bin\Debug\WindowsFormsApp26.exe
+G:\Users\ASUS\source\repos\WindowsFormsApp26\WindowsFormsApp26\bin\Debug\WindowsFormsApp26.pdb
+G:\Users\ASUS\source\repos\WindowsFormsApp26\WindowsFormsApp26\obj\Debug\WindowsFormsApp26.csprojAssemblyReference.cache
+G:\Users\ASUS\source\repos\WindowsFormsApp26\WindowsFormsApp26\obj\Debug\WindowsFormsApp26.Form1.resources
+G:\Users\ASUS\source\repos\WindowsFormsApp26\WindowsFormsApp26\obj\Debug\WindowsFormsApp26.Properties.Resources.resources
+G:\Users\ASUS\source\repos\WindowsFormsApp26\WindowsFormsApp26\obj\Debug\WindowsFormsApp26.csproj.GenerateResource.cache
+G:\Users\ASUS\source\repos\WindowsFormsApp26\WindowsFormsApp26\obj\Debug\WindowsFormsApp26.csproj.CoreCompileInputs.cache
+G:\Users\ASUS\source\repos\WindowsFormsApp26\WindowsFormsApp26\obj\Debug\WindowsFormsApp26.exe
+G:\Users\ASUS\source\repos\WindowsFormsApp26\WindowsFormsApp26\obj\Debug\WindowsFormsApp26.pdb
